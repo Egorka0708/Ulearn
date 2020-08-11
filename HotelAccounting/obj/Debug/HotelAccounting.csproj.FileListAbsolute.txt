@@ -1,0 +1,14 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\bin\Debug\HotelAccounting.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\bin\Debug\HotelAccounting.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\bin\Debug\HotelAccounting.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\MainWindow.g.cs
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\MainWindow.baml
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting.g.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\HotelAccounting\obj\Debug\HotelAccounting.pdb

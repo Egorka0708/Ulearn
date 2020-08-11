@@ -1,0 +1,9 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\bin\Debug\GeometryPainting.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\bin\Debug\GeometryPainting.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\bin\Debug\GeometryPainting.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\obj\Debug\GeometryPainting.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\obj\Debug\GeometryPainting.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\GeometryPainting\obj\Debug\GeometryPainting.pdb

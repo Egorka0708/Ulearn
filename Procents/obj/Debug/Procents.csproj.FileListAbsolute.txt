@@ -1,0 +1,7 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Procents\bin\Debug\Procents.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Procents\bin\Debug\Procents.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Procents\bin\Debug\Procents.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Procents\obj\Debug\Procents.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Procents\obj\Debug\Procents.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Procents\obj\Debug\Procents.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Procents\obj\Debug\Procents.pdb

@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Housekeeping/ProjectModelSynchronizer/ProjectGuidsToAssemblyReferenceList/=4518183839741A45BC6E1DB5C403D168/@EntryIndexedValue">&#xD;
+    &lt;Reference Include="nunit.framework"&gt;&#xD;
+      &lt;HintPath&gt;nunit.framework.dll&lt;/HintPath&gt;&#xD;
+      &lt;Private&gt;True&lt;/Private&gt;&#xD;
+    &lt;/Reference&gt;</s:String></wpf:ResourceDictionary>

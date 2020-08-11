@@ -1,0 +1,13 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\bin\Debug\images\rocket.png
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\bin\Debug\images\target.png
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\bin\Debug\func-rocket.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\bin\Debug\func-rocket.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\bin\Debug\func-rocket.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\bin\Debug\nunit.framework.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\obj\Debug\func-rocket.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\obj\Debug\func_rocket.Properties.Resources.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\obj\Debug\func-rocket.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\obj\Debug\func-rocket.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\obj\Debug\func-rocket.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\obj\Debug\func-rocket.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rocket\obj\Debug\func-rocket.pdb

@@ -1,0 +1,10 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\bin\Debug\brainfuck.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\bin\Debug\brainfuck.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\bin\Debug\brainfuck.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\bin\Debug\nunit.framework.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\bin\Debug\nunitlite.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\obj\Debug\func-brainfuck.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\obj\Debug\func-brainfuck.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\obj\Debug\brainfuck.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Brainfuck\obj\Debug\brainfuck.pdb

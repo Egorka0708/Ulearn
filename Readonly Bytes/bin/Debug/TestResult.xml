@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="readonly-bytes.exe" fullname="C:/Users/Олег/Desktop/Программирование/курс по c#/программки/Readonly Bytes/bin/Debug/readonly-bytes.exe" testcasecount="11" result="Passed" start-time="2019-03-14 10:07:35Z" end-time="2019-03-14 10:07:50Z" duration="15.542277" total="11" passed="11" failed="0" inconclusive="0" skipped="0" asserts="100026" random-seed="95026385">
+  <command-line><![CDATA["C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Readonly Bytes\bin\Debug\readonly-bytes.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1012" name="readonly-bytes.exe" fullname="C:/Users/Олег/Desktop/Программирование/курс по c#/программки/Readonly Bytes/bin/Debug/readonly-bytes.exe" runstate="Runnable" testcasecount="11" result="Passed" start-time="2019-03-14 10:07:35Z" end-time="2019-03-14 10:07:50Z" duration="15.542277" total="11" passed="11" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="100026">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Readonly Bytes\bin\Debug" machine-name="BUMER" user="Олег" user-domain="Bumer" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Readonly Bytes\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="12676" />
+      <property name="_APPDOMAIN" value="readonly-bytes.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1013" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="11" result="Passed" start-time="2019-03-14 10:07:35Z" end-time="2019-03-14 10:07:50Z" duration="15.529273" total="11" passed="11" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="100026">
+      <test-suite type="TestFixture" id="1000" name="ReadonlyBytesTests" fullname="hashes.ReadonlyBytesTests" classname="hashes.ReadonlyBytesTests" runstate="Runnable" testcasecount="11" result="Passed" start-time="2019-03-14 10:07:35Z" end-time="2019-03-14 10:07:50Z" duration="15.524366" total="11" passed="11" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="100026">
+        <test-case id="1001" name="Creation" fullname="hashes.ReadonlyBytesTests.Creation" methodname="Creation" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1884941060" result="Passed" start-time="2019-03-14 10:07:35Z" end-time="2019-03-14 10:07:35Z" duration="0.005088" asserts="0" />
+        <test-case id="1002" name="CreationException" fullname="hashes.ReadonlyBytesTests.CreationException" methodname="CreationException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1849263834" result="Passed" start-time="2019-03-14 10:07:35Z" end-time="2019-03-14 10:07:48Z" duration="13.662170" asserts="1" />
+        <test-case id="1006" name="Enumeration" fullname="hashes.ReadonlyBytesTests.Enumeration" methodname="Enumeration" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1264250708" result="Passed" start-time="2019-03-14 10:07:48Z" end-time="2019-03-14 10:07:48Z" duration="0.010917" asserts="1" />
+        <test-case id="1007" name="EqualOnSameBytes" fullname="hashes.ReadonlyBytesTests.EqualOnSameBytes" methodname="EqualOnSameBytes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="2035550335" result="Passed" start-time="2019-03-14 10:07:48Z" end-time="2019-03-14 10:07:48Z" duration="0.002780" asserts="4" />
+        <test-case id="1009" name="HashCode" fullname="hashes.ReadonlyBytesTests.HashCode" methodname="HashCode" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1658289173" result="Passed" start-time="2019-03-14 10:07:48Z" end-time="2019-03-14 10:07:48Z" duration="0.005763" asserts="8" />
+        <test-case id="1004" name="Indexer" fullname="hashes.ReadonlyBytesTests.Indexer" methodname="Indexer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="684303533" result="Passed" start-time="2019-03-14 10:07:48Z" end-time="2019-03-14 10:07:48Z" duration="0.000418" asserts="3" />
+        <test-case id="1005" name="IndexOutOfRangeException" fullname="hashes.ReadonlyBytesTests.IndexOutOfRangeException" methodname="IndexOutOfRangeException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="714700156" result="Passed" start-time="2019-03-14 10:07:48Z" end-time="2019-03-14 10:07:50Z" duration="1.682125" asserts="1" />
+        <test-case id="1003" name="Length" fullname="hashes.ReadonlyBytesTests.Length" methodname="Length" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1142139146" result="Passed" start-time="2019-03-14 10:07:50Z" end-time="2019-03-14 10:07:50Z" duration="0.000530" asserts="1" />
+        <test-case id="1011" name="MassiveCallToGetHashCodeOfLargeBytesArray" fullname="hashes.ReadonlyBytesTests.MassiveCallToGetHashCodeOfLargeBytesArray" methodname="MassiveCallToGetHashCodeOfLargeBytesArray" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="705588692" result="Passed" start-time="2019-03-14 10:07:50Z" end-time="2019-03-14 10:07:50Z" duration="0.082604" asserts="100000" />
+        <test-case id="1008" name="NotEqualIfBytesDiffer" fullname="hashes.ReadonlyBytesTests.NotEqualIfBytesDiffer" methodname="NotEqualIfBytesDiffer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="633031845" result="Passed" start-time="2019-03-14 10:07:50Z" end-time="2019-03-14 10:07:50Z" duration="0.001186" asserts="4" />
+        <test-case id="1010" name="ToStringIsOverridden" fullname="hashes.ReadonlyBytesTests.ToStringIsOverridden" methodname="ToStringIsOverridden" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="489466065" result="Passed" start-time="2019-03-14 10:07:50Z" end-time="2019-03-14 10:07:50Z" duration="0.014552" asserts="3" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

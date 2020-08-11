@@ -1,0 +1,10 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\obj\Debug\table-parser.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\obj\Debug\TableParser.Properties.Resources.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\obj\Debug\table-parser.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\obj\Debug\table-parser.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\bin\Debug\data.txt
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\bin\Debug\TableParser.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\bin\Debug\TableParser.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\bin\Debug\TableParser.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\obj\Debug\TableParser.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\TablerParser\obj\Debug\TableParser.pdb

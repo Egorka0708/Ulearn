@@ -1,0 +1,75 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.Properties.Resources.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.ResolveComReference.cache
+E:\GameUlearn\bin\Debug\GameUlearn.exe.config
+E:\GameUlearn\bin\Debug\GameUlearn.exe
+E:\GameUlearn\bin\Debug\GameUlearn.pdb
+E:\GameUlearn\bin\Debug\Interop.WMPLib.dll
+E:\GameUlearn\bin\Debug\AxInterop.WMPLib.dll
+E:\GameUlearn\obj\Debug\Interop.WMPLib.dll
+E:\GameUlearn\obj\Debug\AxInterop.WMPLib.dll
+E:\GameUlearn\obj\Debug\GameUlearn.csproj.ResolveComReference.cache
+E:\GameUlearn\obj\Debug\GameUlearn.Game.resources
+E:\GameUlearn\obj\Debug\GameUlearn.End.resources
+E:\GameUlearn\obj\Debug\GameUlearn.Properties.Resources.resources
+E:\GameUlearn\obj\Debug\GameUlearn.csproj.GenerateResource.cache
+E:\GameUlearn\obj\Debug\GameUlearn.exe
+E:\GameUlearn\obj\Debug\GameUlearn.pdb
+H:\GameUlearn\bin\Debug\GameUlearn.exe.config
+H:\GameUlearn\bin\Debug\GameUlearn.exe
+H:\GameUlearn\bin\Debug\GameUlearn.pdb
+H:\GameUlearn\obj\Debug\GameUlearn.csprojAssemblyReference.cache
+H:\GameUlearn\obj\Debug\GameUlearn.csproj.ResolveComReference.cache
+H:\GameUlearn\obj\Debug\GameUlearn.Game.resources
+H:\GameUlearn\obj\Debug\GameUlearn.End.resources
+H:\GameUlearn\obj\Debug\GameUlearn.Properties.Resources.resources
+H:\GameUlearn\obj\Debug\GameUlearn.csproj.GenerateResource.cache
+H:\GameUlearn\obj\Debug\GameUlearn.csproj.CoreCompileInputs.cache
+H:\GameUlearn\obj\Debug\GameUlearn.exe
+H:\GameUlearn\obj\Debug\GameUlearn.pdb
+E:\GameUlearn\obj\Debug\GameUlearn.csprojAssemblyReference.cache
+E:\GameUlearn\obj\Debug\GameUlearn.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.Game.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.End.resources
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.exe
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.pdb
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.exe.config
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.exe
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.pdb
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.ResolveComReference.cache
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.Game.resources
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.End.resources
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.Properties.Resources.resources
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.GenerateResource.cache
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.exe.config
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.exe
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\GameUlearn.pdb
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.ResolveComReference.cache
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.Game.resources
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.End.resources
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.Properties.Resources.resources
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.csproj.GenerateResource.cache
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.exe
+C:\Users\Олег\Рабочий стол\Programming\курс по c#\программки\GameUlearn\GameUlearn\obj\Debug\GameUlearn.pdb

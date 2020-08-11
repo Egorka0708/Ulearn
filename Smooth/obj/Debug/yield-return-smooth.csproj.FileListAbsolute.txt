@@ -1,0 +1,10 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\bin\Debug\yield.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\bin\Debug\yield.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\bin\Debug\yield.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\bin\Debug\nunit.framework.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\bin\Debug\ZedGraph.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\obj\Debug\yield-return-smooth.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\obj\Debug\yield-return-smooth.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\obj\Debug\yield-return-smooth.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\obj\Debug\yield.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Smooth\obj\Debug\yield.pdb

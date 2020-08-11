@@ -1,0 +1,9 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\bin\Debug\TestingRoom.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\obj\Debug\Rectangles.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\obj\Debug\Rectangles.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Rectangles\obj\Debug\Rectangles.pdb

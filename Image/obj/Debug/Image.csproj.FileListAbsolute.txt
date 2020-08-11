@@ -1,0 +1,8 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\bin\Debug\eurobot.bmp
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\bin\Debug\Recognizer.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\bin\Debug\Recognizer.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\bin\Debug\Recognizer.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\obj\Debug\Recognizer.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Image\obj\Debug\Recognizer.pdb

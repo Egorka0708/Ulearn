@@ -1,0 +1,6 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\bin\Debug\ClassLibrary1.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\bin\Debug\ClassLibrary1.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\obj\Debug\GeometryTasks.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\obj\Debug\GeometryTasks.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\obj\Debug\ClassLibrary1.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GeometryTask\obj\Debug\ClassLibrary1.pdb

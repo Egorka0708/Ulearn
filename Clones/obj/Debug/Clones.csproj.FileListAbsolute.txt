@@ -1,0 +1,9 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\bin\Debug\Clones.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\bin\Debug\Clones.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\bin\Debug\Clones.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\bin\Debug\nunit.framework.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\obj\Debug\Clones.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\obj\Debug\Clones.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\obj\Debug\Clones.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\obj\Debug\Clones.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Clones\obj\Debug\Clones.pdb

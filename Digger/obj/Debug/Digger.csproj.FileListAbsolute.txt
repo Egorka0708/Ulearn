@@ -1,0 +1,16 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\Images\Digger.png
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\Images\Gold.png
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\Images\Monster.png
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\Images\Sack.png
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\Images\Terrain.png
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\11-digger.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\11-digger.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\11-digger.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\bin\Debug\nunit.framework.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\obj\Debug\11-digger.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Digger\obj\Debug\11-digger.pdb

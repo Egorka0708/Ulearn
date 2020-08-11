@@ -1,0 +1,10 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\bin\Debug\Tickets.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\bin\Debug\Tickets.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\bin\Debug\Tickets.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\bin\Debug\nunit.framework.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\bin\Debug\nunitlite.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\obj\Debug\Tickets.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\obj\Debug\Tickets.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\Tickets\obj\Debug\Tickets.pdb

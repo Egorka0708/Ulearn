@@ -1,0 +1,53 @@
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ZombieShooterTests.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ZombieShooterTests.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\GameUlearn.exe
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\GameUlearn.pdb
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\GameUlearn.exe.config
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.csproj.CopyComplete
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.dll
+C:\Users\Олег\Desktop\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.pdb
+E:\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ZombieShooterTests\bin\Debug\ZombieShooterTests.dll
+E:\ZombieShooterTests\bin\Debug\ZombieShooterTests.pdb
+E:\ZombieShooterTests\bin\Debug\GameUlearn.exe
+E:\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ZombieShooterTests\bin\Debug\GameUlearn.pdb
+E:\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ZombieShooterTests\obj\Debug\ZombieShooterTests.dll
+E:\ZombieShooterTests\obj\Debug\ZombieShooterTests.pdb
+E:\ZombieShooterTests\obj\Debug\ZombieShooterTests.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ZombieShooterTests.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\ZombieShooterTests.pdb
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\GameUlearn.exe
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\GameUlearn.pdb
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\GameUlearn.exe.config
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.csproj.CopyComplete
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.dll
+C:\Users\Олег\Рабочий стол\Программирование\курс по c#\программки\GameUlearn\ZombieShooterTests\obj\Debug\ZombieShooterTests.pdb
